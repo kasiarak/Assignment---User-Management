@@ -1,3 +1,14 @@
+<h1 align="center">Brief</h1>
+
+###
+
+<p align="left">This project is a user management application built using React and Redux Toolkit. The application allows users to view and filter a list of users fetched from an API. Redux Toolkit is used for state management, providing a robust solution for managing the application's state. <br>One of the major challenges in this project was integrating Redux Toolkit. As someone who started learning Redux specifically for this task, the process involved familiarizing myself with Redux Toolkit’s concepts and best practices. Using createSlice and configureStore simplified state management and reduced boilerplate code compared to classic Redux. <br>The design of this application was inspired by my previous web project a password manager described in my CV. The goal was to create a clean and user-friendly interface that facilitates easy interaction with the user data.</p>
+
+###
+
+<h1 align="center"></h1>
+
+###
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
