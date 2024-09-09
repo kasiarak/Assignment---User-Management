@@ -1,0 +1,36 @@
+.tableContainer table{
+    border-collapse: collapse;
+}
+.tableContainer td, .tableContainer th{
+    padding: 10px; 
+    border: 2px solid lightgray;
+}
+.inputContainer{
+    height: 40px;
+    border: 0.2px solid lightgray;
+    width: 300px;
+    border-radius: 15px;
+}
+.inputContainer input{
+    height: 100%;
+    width: 95%;
+    border:none; 
+    background-color: transparent;
+    margin-left: 8px;
+}
+.inputContainer input:focus{
+    outline: none;
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+  }
+.container form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    row-gap: 10px;
+    margin-bottom: 10px;
+}
